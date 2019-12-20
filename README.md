@@ -15,3 +15,4 @@ Yelp Write Up - Main Report
 
 yelp_rating_master_notebook.ipynb - Main Script that runs top to bottom
 
+image/ 2 images used in the report
