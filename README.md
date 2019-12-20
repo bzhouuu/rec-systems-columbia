@@ -10,6 +10,8 @@ Bangwei Zhou BZ2280 bzhouuu
 Zhongling Jiang ZJ2249 jiangzl2016
 
 File Catalog:
+
 Yelp Write Up - Main Report
+
 yelp_rating_master_notebook.ipynb - Main Script that runs top to bottom
 
