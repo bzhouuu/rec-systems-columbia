@@ -1,5 +1,4 @@
-# movie-recommendations
-
+# yelp-ratings
 Team members:
 
 James Jungsuk Lee JL5241 yjs1210
