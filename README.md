@@ -1,1 +1,16 @@
-# project-2-final-recs_final_project_bz_jl_up_zj
+# movie-recommendations
+
+Team members:
+
+James Jungsuk Lee JL5241 yjs1210
+ 
+Ujjwal Peshin UP2138 ujjwal95
+
+Bangwei Zhou BZ2280 bzhouuu
+
+Zhongling Jiang ZJ2249 jiangzl2016
+
+File Catalog:
+Yelp Write Up - Main Report
+yelp_rating_master_notebook.ipynb - Main Script that runs top to bottom
+
