@@ -1,13 +1,7 @@
-# yelp-ratings
-Team members:
+# yelp-ratings-prediction
 
-James Jungsuk Lee JL5241 yjs1210
- 
-Ujjwal Peshin UP2138 ujjwal95
+This repository contains final project files for personalization theory and application taught by Professor Vintch at Columbia University. The final project is yelp rating prediction challenge. My contribution is collective matrix factorization part.
 
-Bangwei Zhou BZ2280 bzhouuu
-
-Zhongling Jiang ZJ2249 jiangzl2016
 
 File Catalog:
 
