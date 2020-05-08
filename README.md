@@ -5,7 +5,7 @@ This repository contains final project files for personalization theory and appl
 My contribution was implementing collective matrix factorization part from cmfrec.
 
 
-*File Catalog:*
+**File Catalog:**
 
 - Yelp Write Up - Main Report
 
