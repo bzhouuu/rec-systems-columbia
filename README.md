@@ -5,10 +5,10 @@ This repository contains final project files for personalization theory and appl
 My contribution was implementing collective matrix factorization part from cmfrec.
 
 
-File Catalog:
+*File Catalog:*
 
-Yelp Write Up - Main Report
+- Yelp Write Up - Main Report
 
-yelp_rating_master_notebook.ipynb - Main Script that runs top to bottom
+- yelp_rating_master_notebook.ipynb - Main Script that runs top to bottom
 
-image/ 2 images used in the report
+- image/ 2 images used in the report
