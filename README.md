@@ -1,6 +1,6 @@
 # yelp-ratings-prediction
 
-This repository contains final project files for personalization theory and application taught by Professor Vintch at Columbia University. The final project is yelp rating prediction challenge. 
+This repository contains final project files for personalization theory and application taught by Professor Vintch at Columbia University. The final project was yelp rating prediction challenge. 
 
 My contribution was implementing collective matrix factorization part from cmfrec.
 
